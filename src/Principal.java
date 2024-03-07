@@ -10,6 +10,10 @@ class Hola{
     }
 }
 
+class Adios{
+    private int despedida;
+}
+
 
 public class Principal {
     public static void main(String[] args) {
